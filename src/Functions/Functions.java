@@ -1,6 +1,6 @@
-package klass;
+package Functions;
  import java.util.Scanner;
-public class klass {
+public class Functions {
     public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
         System.out.println(" Enter number for today :");
