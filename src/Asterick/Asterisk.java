@@ -1,6 +1,6 @@
 package Asterick;
 
-public class Asterick {
+public class Asterisk {
 
     public static void main(String[] arg) {
 
