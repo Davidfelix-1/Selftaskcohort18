@@ -10,8 +10,7 @@ class MyPracticeTwoTest {
         @Test
     public void testThatMyPracticeExist(){
             MyPracticeTwo myTempo = new MyPracticeTwo();
-            myTempo.setName();
-            assertNotNull(empo.get);
+
 
         }
 
