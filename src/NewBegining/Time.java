@@ -14,6 +14,9 @@ public class Time {
         this.seconds=seconds;
     }
 
+    private void validate(int hour, int minute, int seconds) {
+    }
+
     public static void validateHour(int hour){
         boolean hourIsInvalid = hour>23 || hour<0;
         if(hour >23 || hour<0)throw  new IllegalArgumentException("Hour is invalid ");
